@@ -3,19 +3,26 @@ body {
     font-family: verdana;
     font-size: 15px;
     text-align: center;
-    /*!*text-decoration: line-through;*!*/
-    /*!*text-transform: capitalize;*!*/
+    /*text-decoration: line-through;*/
+    text-transform: capitalize;
     /*!*text-indent: 50px;*!*/
-    letter-spacing: 3px;
+    /*letter-spacing: 3px;*/
     /*line-height: 0.8;*/
     /*word-spacing: 10px;*/
-    direction: rtl;
+    /*direction: rtl;*/
     /*text-shadow: 3px 2px blue;*/
+    background-color: yellowgreen;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
 }
 
 header {
     background-color: brown;
-
 }
 
 footer {
@@ -36,4 +43,8 @@ main {
     width: 960px;
     border: 1px solid darkgray;
     background-color: lightgray;
+    margin: 0 auto;
+    padding: 70px 20px 30px;
+    img
+
 }

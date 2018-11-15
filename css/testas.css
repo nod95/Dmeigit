@@ -1,7 +1,7 @@
-body{
+body {
     color: brown;
     font-family: verdana;
-    font-size:15px;
+    font-size: 15px;
     text-align: center;
     /*!*text-decoration: line-through;*!*/
     /*!*text-transform: capitalize;*!*/
@@ -9,25 +9,30 @@ body{
     letter-spacing: 3px;
     /*line-height: 0.8;*/
     /*word-spacing: 10px;*/
-    /*direction: rtl;*/
+    direction: rtl;
     /*text-shadow: 3px 2px blue;*/
 }
-header{
+
+header {
     background-color: brown;
 
 }
-footer{
+
+footer {
     background-color: cornflowerblue;
 }
-.content header{
+
+.content header {
     background-color: green;
-    color:red;
+    color: red;
 }
-h1{
+
+h1 {
     font-weight: bold;
     font-size: 24px;
 }
-main{
+
+main {
     width: 960px;
     border: 1px solid darkgray;
     background-color: lightgray;

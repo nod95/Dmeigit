@@ -1,0 +1,34 @@
+body{
+    color: brown;
+    font-family: verdana;
+    font-size:15px;
+    text-align: center;
+    /*!*text-decoration: line-through;*!*/
+    /*!*text-transform: capitalize;*!*/
+    /*!*text-indent: 50px;*!*/
+    letter-spacing: 3px;
+    /*line-height: 0.8;*/
+    /*word-spacing: 10px;*/
+    /*direction: rtl;*/
+    /*text-shadow: 3px 2px blue;*/
+}
+header{
+    background-color: brown;
+
+}
+footer{
+    background-color: cornflowerblue;
+}
+.content header{
+    background-color: green;
+    color:red;
+}
+h1{
+    font-weight: bold;
+    font-size: 24px;
+}
+main{
+    width: 960px;
+    border: 1px solid darkgray;
+    background-color: lightgray;
+}

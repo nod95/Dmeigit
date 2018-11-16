@@ -1,0 +1,12 @@
+main {
+    width: 960px;
+    /*border: 1px solid darkgray;*/
+    /*background-color: lightgray;*/
+    margin: 0 auto;
+    padding: 70px 20px 3px;
+
+}
+.logo {
+    width: 50px;
+}
+

@@ -1,55 +1,12 @@
-body {
-
-    color: brown;
-    font-family: verdana;
-    font-size: 15px;
-    text-align: center;
-    /*text-decoration: line-through;*/
-    text-transform: capitalize;
-    /*!*text-indent: 50px;*!*/
-    /*letter-spacing: 3px;*/
-    /*line-height: 0.8;*/
-    /*word-spacing: 10px;*/
-    /*direction: rtl;*/
-    /*text-shadow: 3px 2px blue;*/
-    background-color: yellowgreen;
+header{
+    background-color: lightgrey;
 }
-
-img{
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
+footer{
+    background-color: lightgrey;
 
 }
-
-header {
-    background-color: brown;
-    padding: 20px 20px 30px;
-
-}
-
-footer {
-    background-color: brown;
-}
-
-.content header {
-    background-color: green;
-    color: red;
-}
-
-h1 {
-    font-weight: bold;
-    font-size: 24px;
-    background-color: lightblue;
-}
-
-main {
-    border: 1px solid darkgray;
-    width: 960px;
-    background-color: lightblue;
-    margin: 30px;
-    padding: 0px 150px 200px;
-
-
+.pradzia{
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
 }

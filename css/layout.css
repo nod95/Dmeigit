@@ -1,12 +1,86 @@
-main {
-    width: 960px;
-    /*border: 1px solid darkgray;*/
-    /*background-color: lightgray;*/
-    margin: 0 auto;
-    padding: 70px 20px 3px;
-
+.contain{
+        width:960px;
+        margin: 0 auto;
 }
-.logo {
+.pav{
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+}
+.logo1{
     width: 50px;
+    right: 20px;
+    border: 3px solid #73AD21;
+    position: fixed;
+}
+.logo{
+    width: 50px;
+    left: 20px;
+    border: 3px solid #73AD21;
+    position: fixed;
+}
+.top{
+    text-transform: uppercase;
+    text-align:center;
+    padding: 20px;
+}
+.bottom{
+    text-align: center;
+    padding: 15px;
+    text-transform: uppercase;
+
+}
+footer{
+
+    text-align: center;
+}
+h1{
+    font-family: Verdana;
+    text-align: center;
+    background-color: linen;
+}
+p {
+    text-indent: 20px;
+    text-align: center;
+    font: italic 15px Verdana;
+}
+.port1{
+    text-align: center;
+    width: 300px;
+}
+.port2{
+
+    width: 300px;
+}
+.port3{
+    width: 300px;
+}
+.port4{
+    width: 300px;
+}
+.port5{
+    width: 300px;
+}
+.port6{
+    width: 300px;
+}
+.h1{
+    font-size: 4em;
+}
+.grid-item {
+    /*!*background-color: rgba(255, 255, 255, 0.8);*!*/
+    /*border: 1px solid rgba(0, 0, 0, 0.8);*/
+    padding: 20px;
+    font-size:30px;
+    text-align: center;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /*background-color: #2196F3;*/
+    padding: 10px;
+    width:960px;
+    margin: 0 auto;
+
+}
